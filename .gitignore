@@ -21,3 +21,5 @@ public/3rdpartylicenses.txt
 
 .phpstorm.meta.php
 _ide_helper.php
+
+debug.log
