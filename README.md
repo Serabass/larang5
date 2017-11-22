@@ -29,8 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 Join and help me to make following projects:
-* Expang5 - Angular5 with Express
-* Grang5 - Angular5 with Grails
-* Aspang5 - Angular5 with ASP.Net Core
-* Pythang5 - Angular5 with Python
-* Rorang5 - Angular5 with Ruby On Rails
+* ExpAng5 - Angular5 with Express
+* GrAng5 - Angular5 with Grails
+* AspAng5 - Angular5 with ASP.Net Core
+* PythAng5 - Angular5 with Python
+* RoRAng5 - Angular5 with Ruby On Rails
+* ElectrAng5 - Angular5 with Electron
