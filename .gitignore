@@ -12,16 +12,11 @@ yarn-error.log
 .env
 
 # Angular build assets
-public/inline.bundle.js
-public/inline.bundle.js.map
-public/main.bundle.js
-public/main.bundle.js.map
-public/polyfills.bundle.js
-public/polyfills.bundle.js.map
-public/styles.bundle.js
-public/styles.bundle.js.map
-public/vendor.bundle.js
-public/vendor.bundle.js.map
+# maybe just /public/**
+public/*.bundle.js
+public/*.bundle.js.map
+public/*.bundle.css
+public/3rdpartylicenses.txt
 
 .phpstorm.meta.php
 _ide_helper.php
