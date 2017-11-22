@@ -16,6 +16,7 @@ yarn-error.log
 public/*.bundle.js
 public/*.bundle.js.map
 public/*.bundle.css
+public/index.php
 public/3rdpartylicenses.txt
 
 .phpstorm.meta.php
