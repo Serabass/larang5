@@ -2,7 +2,6 @@
 
 # Installation
  `composer update`
-
  
 v1.0.0
 
