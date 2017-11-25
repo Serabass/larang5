@@ -1,13 +1,11 @@
 # LarAng5 v1.0.0
 
 # Installation
- $ `git clone https://github.com/Serabass/larang5 --branch=v1.0.1` <your-app-name>
- 
- $ cd <your-app-name>
- 
- $ `composer update`
- 
-v1.0.0
+$ `git clone https://github.com/Serabass/larang5 --branch=v1.0.1` <your-app-name>
+
+$ cd <your-app-name>
+
+$ `composer update`
 
 Join and help me to make following projects:
 * ExpAng5 - Angular5 with Express
