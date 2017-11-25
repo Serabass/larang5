@@ -1,7 +1,7 @@
-# LarAng5 v1.0.0
+# LarAng5 v1.0.2
 
 # Installation
-        $ git clone https://github.com/Serabass/larang5 --branch=v1.0.1 <your-app-name>
+        $ git clone https://github.com/Serabass/larang5 --branch=v1.0.2 <your-app-name>
         $ cd <your-app-name>
         $ composer update
 
